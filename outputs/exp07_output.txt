@@ -1,0 +1,39 @@
+EXPERIMENT 7 - AI CODE GENERATION AND DEBUGGING
+======================================================================
+
+Generated Function:
+
+# Write a Python function to check if a number is prime
+def is_prime(n):
+    if n == 2 or n == 3:
+        return True
+    if n % 2 == 0 or n % 3 == 0:
+        return False
+    for i in range(5, int(math.sqrt(n)) + 1, 6):
+        if n % i == 0:
+            return False
+    return True
+
+
+# Write a Python
+
+======================================================================
+
+Debug Suggestion:
+
+# The following function should return the factorial of n, but has a bug. Fix it.
+def factorial(n):
+    result = 0
+    for i in range(1, n + 1):
+        result = result * i
+    return result
+
+# Corrected function:
+def factorial_fixed(n):
+    result = 1
+    for i in range(1, n + 1):
+        result = result * i
+    return result
+
+# The following function should return the factorial of n, but has a bug. Fix it.
+def factorial_fixed2(n

@@ -1,0 +1,12 @@
+EXPERIMENT 5 - TEXT SUMMARIZATION AND QUESTION ANSWERING
+=================================================================
+
+Summary:
+Generative AI refers to a class of artificial intelligence models capable of producing new content. Large Language Models (LLMs) are trained on massive text corpora and can perform a wide range of natural language tasks.
+
+Question:
+What are Large Language Models trained on?
+
+Answer:
+massive text corpora
+Confidence: 0.892

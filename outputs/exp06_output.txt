@@ -1,0 +1,12 @@
+EXPERIMENT 6 - RETRIEVAL AUGMENTED GENERATION (RAG)
+======================================================================
+
+Query:
+What is RAG in AI?
+
+Retrieved Context:
+- Python is a popular high-level programming language used in AI development.
+- Retrieval-Augmented Generation combines document retrieval with text generation.
+
+Generated Answer:
+combines document retrieval with text generation

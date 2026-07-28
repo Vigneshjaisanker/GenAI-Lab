@@ -1,0 +1,18 @@
+EXPERIMENT 2 - SENTIMENT ANALYSIS
+==================================================
+
+Review: The new smartphone has an amazing camera and battery life!
+-> POSITIVE (1.0)
+
+Review: The delivery was late and the packaging was damaged.
+-> NEGATIVE (1.0)
+
+
+EXPERIMENT 2 - ZERO SHOT DOCUMENT CLASSIFICATION
+==================================================
+
+Document: The central bank raised interest rates to control rising inflation.
+Economy: 0.678
+Politics: 0.126
+Technology: 0.121
+Sports: 0.075
